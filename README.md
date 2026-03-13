@@ -1,4 +1,4 @@
-# 🌆 Cyberpunk Córdoba 2077 ![CI](https://github.com/<owner>/<repo>/actions/workflows/ci.yml/badge.svg)
+# 🌆 Cyberpunk Córdoba 2077 ![CI](https://github.com/GabrielEValenzuela/CyberCba2077/actions/workflows/ci.yml/badge.svg)
 
 > Año 2077.  
 > Córdoba ya no es la que conocías.  
@@ -17,6 +17,7 @@ Es un laboratorio vivo donde cada estructura que implementes tendrá impacto rea
 ## 👥 Equipo de desarrollo
 
 - Gabi Valenzuela ([@GabrielEValenzuela](https://github.com/GabrielEValenzuela)) - Lider de proyecto.
+- Ramiro Navarro ([@RamiroNavarro01](https://github.com/RamiroNavarro01)) - Desarrollador.
 - Marcos Rusconi ([@b0nusonline](https://github.com/b0nusonline)) - Desarrollador
 - Erick Economou ([@ErickEconomou](https://github.com/ErickEconomou)) - Desarrollador
 - Lautaro Flores ([@lautyfg](https://github.com/lautyfg)) - Desarrollador
@@ -27,11 +28,20 @@ Es un laboratorio vivo donde cada estructura que implementes tendrá impacto rea
 - Leandro Bassi ([@LeandroBassi](https://github.com/LeandroBassi)) - Desarrollador
 - Agustina Marasini ([@agustinaa-arch](https://github.com/agustinaa-arch)) - Desarrollador
 - Marcos Bravin ([@marcosbravin7](https://github.com/marcosbravin7)) - Desarrollador
-- Agustin Mella Romero ([@mellantastico](https://github.com/Mellantastico)) - Humungosaurio-
+- Agustin Mella Romero ([@mellantastico](https://github.com/Mellantastico)) - Desarrollador
 - Santiago Fernandez ([@SantiFernandezGit](https://github.com/SantiFernandezGit)) - Desarrollador
 - Alejo Sosa Luna ([@asosalunaa](https://github.com/asosalunaa)) - Desarrollador
 - Lautaro Perez ([@Lautazz11](https://github.com/Lautazz11)) - Desarrollador
 - Alejo Sosa Luna ([@asosalunaa](https://github.com/asosalunaa)) - Desarrollador 
+- Luka Brian Jones([@lukajones544](https://github.com/lukajones544)) - Desarrollador.
+- Melisa Verdu ([@melisaverdu](https://github.com/melisaverdu)) - Desarrollador 
+- Juani Aguero ([@juaniaguero](https://github.com/juaniaguero)) - Desarrollador
+- Valentin Suppo ([@valesppo](https://github.com/valesppo)) - Desarrollador
+- Mateo Agustín Ahivar ([@Mateo-Ahivar](https://github.com/Mateo-Ahivar)) - Desarrollador
+- Benjamin Vasconsellos ([@benjaminvasconsellos](https://github.com/benjaminvasconsellos)) - Desarrollador
+- Santiago Riera ([@SantiiRiera](https://github.com/SantiiRiera)) - Desarrollador
+- Facundo Lugones ([@Facu01332](https://github.com/Facu01332)) -Desarrollador
+- Sofia Romero ([@nqtsqfy](https://github.com/nqtsqfy)) - Desarrollador
 - Alexis Garay([@Garay1913](https://github.com/Garay1913)) - Desarrollador
 - Ivan Pastrana ([@ivanpastrana-dev](https://github.com/ivanpastrana-dev)) - Desarrollador
 - Facundo Michaud ([@FacuM225](https://github.com/FacuM225)) - Desarrollador
@@ -44,6 +54,23 @@ Es un laboratorio vivo donde cada estructura que implementes tendrá impacto rea
 - Ángela Marioni ([@Angela-M-01](https://github.com/Angela-M-01)) - Desarrollador
 - Matias Martin Fenizi ([@matiasfenizi-a11y](https://github.com/matiasfenizi-a11y)) - Desarrollador
 - Geronimo Borda Bossana([@granitsilber-e36](https://github.com/granitsilber-e36)) - Desarrollador
+- Fabricio Lucero([@fabriciobit](https://github.com/fabriciobit)) - Desarrollador
+- Franco Ibarra ([@francoibarra26](https://github.com/francoibarra26)) - Desarrollador
+- Juana Castellano ([@juanacast](https://github.com/juanacast)) - Desarrollador
+- Franco Diaz ([@LeoFranco02](https://github.com/LeoFranco02)) - Desarrollador
+- Matias Angel Lamas ([@angelowski001](https://github.com/angelowski001)) - Desarrollador
+- Priscila Martinez([@Prisci-Martinez](https://github.com/Prisci-Martinez)) - Desarrollador
+- Lucia Alazino([@luciiii4](https://github.com/luciiii4)) - Desarrollador
+- Nicolas Centurion ([@NicolasCenturion122](https://github.com/NicolasCenturion122)) - Desarrollador
+- Mateo Correa Sisalli ([@mateocorreasisalli](https://github.com/mateocorreasisalli)) - Desarrollador
+- Santiago Nicolau ([@Santi695174](https://github.com/Santi695174)) - Desarrollador
+- Claudia Yon ([@clau-yon](https://github.com/clau-yon)) - Desarrollador
+- Santiago Barboza ([@santybarboza](https://github.com/santybarboza)) - Desarrollador
+- Bruno Ottonello ([@Motomoto17](https://github.com/Motomoto17)) - Desarrollador 
+- Nicolás Ludueña ([@nicoluduena04](https://github.com/nicoluduena04)) - Desarrollador 
+- Santiago Agustin Zuñiga Castro ([@santizuu](https://github.com/Santizuu)) - Desarrollador
+- Sharon Blatter ([@sharonblatter-jpg](https://github.com/sharonblatter-jpg)) - Desarrollador 
+- Sofía Sivila ([@Nazarena12](https://github.com/Nazarena12)) - Desarrollador
 
 ---
 
