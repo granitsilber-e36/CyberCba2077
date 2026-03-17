@@ -1,4 +1,4 @@
-# 🌆 Cyberpunk Córdoba 2077 ![CI](https://github.com/GabrielEValenzuela/CyberCba2077/actions/workflows/ci.yml/badge.svg)
+# 🌆 Cyberpunk Córdoba 2077 ![CI](https://github.com/<owner>/<repo>/actions/workflows/ci.yml/badge.svg)
 
 > Año 2077.  
 > Córdoba ya no es la que conocías.  
@@ -71,6 +71,8 @@ Es un laboratorio vivo donde cada estructura que implementes tendrá impacto rea
 - Santiago Agustin Zuñiga Castro ([@santizuu](https://github.com/Santizuu)) - Desarrollador
 - Sharon Blatter ([@sharonblatter-jpg](https://github.com/sharonblatter-jpg)) - Desarrollador 
 - Sofía Sivila ([@Nazarena12](https://github.com/Nazarena12)) - Desarrollador
+- Macarena Nieva ([@macarena-nieva](https://github.com/macarena-nieva)) - Desarrollador
+- Alfredo Binaghi([@alfredobinaghi](https://github.com/alfredobinaghi)) - Desarrollador
 
 ---
 
